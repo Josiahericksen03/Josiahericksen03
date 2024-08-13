@@ -7,7 +7,7 @@
 - Exploring new technologies and frameworks
 
 ## 🌱 I’m currently learning:
-- Advanced JavaScrip
+- Advanced JavaScript
 - React and Redux
 - Backend development with Node.js and Express
 - Database management with MongoDB and SQL
@@ -24,9 +24,4 @@
 - LinkedIn: [Josiah Ericksen](https://linkedin.com/in/josiah-ericksen-225224240)
 - GitHub: [Josiahericksen03](https://github.com/Josiahericksen03)
 
-## 😄 Pronouns:
-- He/Him
-
-## ⚡ Fun fact:
-- I love creating parody versions of popular games, like my project WhackBox, which is a fun take on the popular Jack Box games.
 
